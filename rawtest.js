@@ -1,3 +1,3 @@
-exports function rawhi(user) {
+export function rawhi(user) {
     console.log('Hello! `user`!');
   }
