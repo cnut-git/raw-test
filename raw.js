@@ -1,3 +1,3 @@
-function rawtest() {
+export function rawtest() {
   console.log('sucess!')
 }
