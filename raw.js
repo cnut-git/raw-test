@@ -1,3 +1,3 @@
-export function rawtest() {
-  console.log('sucess!')
-}
+export function rawhi(user) {
+    console.log('Hello! `user`!');
+  }
